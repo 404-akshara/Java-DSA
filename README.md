@@ -1,2 +1,2 @@
-# hello-world
+# java-dsa
 My First GitHub respository - Hello World program
