@@ -1,5 +1,5 @@
 import java.util.*;
-public class AREA_OF_CIRCLE
+public class area_of_circle
 {
     public static void main(String args[])
     {
