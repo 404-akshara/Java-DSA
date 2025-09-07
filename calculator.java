@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class CALCULATOR 
+public class calculator 
 {
    public static void main(String[]args) 
    {
