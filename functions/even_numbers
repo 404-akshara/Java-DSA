@@ -1,0 +1,18 @@
+import java.util.*;
+public class even_numbers {
+    public static void main(String[]args)
+    {
+      Scanner sc=new Scanner(System.in);
+      double n=sc.nextDouble();
+      double a=0;
+      for(double i=1;i<=n;i++)
+      {
+        if(i%2==0)
+        {
+        System.out.println(i);
+        a++;
+        }
+      }
+      System.out.println("Number of even digits: "+a);
+    }
+}
